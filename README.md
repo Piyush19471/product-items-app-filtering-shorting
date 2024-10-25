@@ -25,3 +25,9 @@ Ensure you have the following installed:
 - [Node.js](https://nodejs.org/en/download/) (version 14 or higher)
 - [Angular CLI](https://angular.io/cli) (version 18.2.10 or higher)
 
+### Documentation
+For more help on the Angular CLI, use ng help or check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli).
+
+
+## License
+This project is licensed under the MIT [License] - see the LICENSE file for details.
