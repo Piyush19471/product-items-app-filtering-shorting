@@ -14,7 +14,7 @@ This project is an Angular application that displays a list of products fetched 
 - **Product Listing**: Displays a list of products retrieved from [Fake Store API](https://fakestoreapi.com/products).
 - **Filtering**: Users can filter the list by typing in the title of the products. Only products whose titles include the search term will be displayed.
 - **Sorting**: Users can sort the products in ascending or descending order based on their titles.
-- **Responsive Design**: The application is styled to be mobile-friendly and utilizes Angular Material for a modern UI.
+- **Error handling**: Implemented error handling if Unknown error occure, Network error, No data found.
 
 ## Development Setup
 
